@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Blog of Telekom Product Development</title>
+    <link>https://telekom-pd.github.io/tags/development/</link>
+    <description>Recent content in Development on Blog of Telekom Product Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Mar 2017 16:20:35 +0200</lastBuildDate>
+    
+	<atom:link href="https://telekom-pd.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum post 1</title>
+      <link>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-1/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet justo id lacus hendrerit bibendum. Vivamus placerat dictum felis porttitor hendrerit. Sed in lacus vel quam aliquet fermentum. Proin neque orci, posuere nec lacus a, bibendum vulputate tellus. Duis euismod orci sit amet venenatis varius. Praesent convallis turpis velit, quis efficitur diam condimentum ac. Phasellus semper molestie magna non mollis. Donec rutrum tempor velit, in ornare mauris dictum id. Vivamus sodales sollicitudin lacus, ut lacinia diam tincidunt id. Quisque at mollis urna. Nunc vitae mauris vitae nibh commodo tincidunt. Aliquam nec libero magna. Morbi luctus nisl et sem aliquam malesuada nec et quam.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum post 2</title>
+      <link>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-2/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-2/</guid>
+      <description>&lt;p&gt;Ut at dolor at ipsum sollicitudin blandit sit amet sit amet dolor. Suspendisse a commodo erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Suspendisse facilisis eros sed magna pellentesque, ac viverra lorem mattis. Phasellus lobortis justo ut quam aliquam, vulputate vulputate urna ultricies. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam tortor orci, elementum ullamcorper condimentum eget, sodales sit amet felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec nec imperdiet est.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum post 4</title>
+      <link>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-4/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-4/</guid>
+      <description>&lt;p&gt;Morbi non nisi sit amet ligula egestas aliquet ut ut velit. Etiam mattis commodo arcu in accumsan. Maecenas sagittis vulputate nunc, id congue lectus ornare eu. Sed sodales, massa id convallis dignissim, nulla eros efficitur eros, ac sodales ante tellus nec mi. Nam sit amet libero elit. Phasellus nec consectetur diam, vel tempor leo. Nulla facilisis nunc ante, et pretium tortor eleifend ut. Proin tempus leo a mi tincidunt luctus. Aliquam eget purus vestibulum, iaculis lacus ut, ultrices sem. Curabitur eget purus in quam volutpat gravida vitae id velit. Nullam laoreet rutrum tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ornare fringilla viverra. Curabitur gravida eleifend pharetra. Praesent imperdiet venenatis felis et pulvinar.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum post 5</title>
+      <link>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-5/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/2017/03/lorem-ipsum-post-5/</guid>
+      <description>Duis at nibh iaculis, elementum elit vitae, congue orci. Curabitur vel mauris sit amet tellus facilisis lobortis. Duis tincidunt libero eu neque fringilla euismod. Sed pretium lacus at leo volutpat, non mollis lorem fringilla. Curabitur ac lectus ac nunc congue consectetur in vitae massa. Aenean accumsan, lectus quis placerat tristique, leo magna feugiat ex, eu finibus leo odio non augue. Quisque egestas nibh nisi, euismod dignissim erat euismod sed. Sed interdum leo nibh, vitae tempor sem tincidunt eget.</description>
+    </item>
+    
+  </channel>
+</rss>

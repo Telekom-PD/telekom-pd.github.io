@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog of Telekom Product Development</title>
+    <link>https://telekom-pd.github.io/tags/</link>
+    <description>Recent content in Tags on Blog of Telekom Product Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Mar 2017 16:20:35 +0200</lastBuildDate>
+    
+	<atom:link href="https://telekom-pd.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chef</title>
+      <link>https://telekom-pd.github.io/tags/chef/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/tags/chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://telekom-pd.github.io/tags/development/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://telekom-pd.github.io/tags/ipsum/</link>
+      <pubDate>Fri, 31 Mar 2017 16:20:35 +0200</pubDate>
+      
+      <guid>https://telekom-pd.github.io/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
