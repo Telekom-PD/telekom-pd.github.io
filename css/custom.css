@@ -1,0 +1,103 @@
+.navbar + .docs-section {
+    border-top-width: 0;
+}
+.navbar-spacer {
+    display: none;
+}
+
+
+/* light */
+.color-scheme-light {
+    color: #222;
+    background-color: #fff;
+}
+
+.color-scheme-light p {
+    line-height: 2rem;
+}
+
+.color-scheme-light a {
+    color: #e20074;
+    text-decoration: none;
+}
+
+.color-scheme-light .sitename {
+    text-decoration: none;
+    color: #333;
+    line-height: 4rem;
+}
+
+.color-scheme-light .sitename:hover {
+    color: #e20074;
+}
+
+.color-scheme-light .container {
+    color: #222;
+    background-color:#fff;
+}
+
+.color-scheme-light .post-title-link {
+    font-weight: 700;
+    font-size: 34px;
+    color: #000;
+    text-decoration: none;
+    line-height: 3.5rem;
+
+}
+.color-scheme-light .post-title-link:hover {
+    color: #e20074;
+}
+.color-scheme-light .post-postedby {
+    color: #888888;
+    font-size: 12px;
+    font-style: italic;
+}
+.color-scheme-light .tag-link {
+    color: #e20074;
+}
+.color-scheme-light .arrow-link, .copyright-link {
+    color: #e20074;
+}
+.color-scheme-light .cat-list-link {
+    color: #333;
+    text-decoration: none;
+}
+.color-scheme-light .cat-list-link:hover {
+    color: #e20074;
+}
+.color-scheme-light .navbar,
+.navbar-spacer {
+    display: block;
+    height: 6.5rem;
+    background: #fff;
+    z-index: 99;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+.color-scheme-light .navbar-link {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 900;
+    letter-spacing: .1rem;
+    padding-right: 16px;
+    text-decoration: none;
+    line-height: 4rem;
+    color: #222;
+}
+.color-scheme-light .navbar-rlink {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 900;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    padding-right: 0px;
+    margin-right: 0px;
+    line-height: 4rem;
+    color: #222;
+}
+.color-scheme-light .navbar-link.active, .color-scheme-light .navbar-rlink.active {
+    color: #33C3F0;
+}
+.color-scheme-light .navbar-link:hover, .color-scheme-light .navbar-rlink:hover {
+    color: #e20074;
+}
